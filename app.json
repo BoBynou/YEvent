@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Yevent",
+    "slug": "Yevent",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.Yevent"
+    }
+  }
+}
